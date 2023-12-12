@@ -1,0 +1,17 @@
+{
+  "name": "wp_task_08_part_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abu Zar Farid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "file-system": "^2.2.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.0.2"
+  }
+}
